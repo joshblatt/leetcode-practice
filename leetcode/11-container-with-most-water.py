@@ -1,5 +1,5 @@
 # 2 pointer solution
-# O(n) time O(1) space
+# O(n) time O(1) space 
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         left = 0
